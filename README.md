@@ -6,5 +6,5 @@ I hope to learn more about AI as I am thinking about getting a Ph.D with an mach
 <h5> Day 2 07/07/2021.  </h5>
 I learned about the importance of my story and the necessity of descriptive words in order to get the audience to truly understand and relate to my story.  
 <h5> Day 3 07/08/2021.  </h5>
-1. In supervised learning, we know what the output is supposed to be.   
+1. In supervised learning, we know what the output is supposed to be.  
 2. Scikit-Learn utilizes other libraries to visualize data
