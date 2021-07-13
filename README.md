@@ -10,3 +10,6 @@ I learned about the importance of my story and the necessity of descriptive word
 2. Scikit-Learn utilizes other libraries to visualize data.  
 <h5> Day 4 07/09/2021.  </h5>
 I think the United States has a big problem with the incarceration population. People are given different sentences for the same crime. Parole is also given at different rates. I would like to create a recurrent neural network that would take information about different sentences, without accounting race, and give a similar sentence to the ones previously given in the last 5 years. I found this link, and while it does not contain the specific sentence and crime information, it does help show why this is such a big problem: https://www.sentencingproject.org/publications/no-end-in-sight-americas-enduring-reliance-on-life-imprisonment/
+<h5> Day 7 07/12/2021.  </h5>
+1. Tensors are multidimensional data arrays and software like tensorflow perform operations which neural networks perform on tensors according to the links provided. <br>
+2. I am a little behind and hope to catch up on this part today.
