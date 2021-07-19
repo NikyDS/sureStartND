@@ -14,6 +14,6 @@ I think the United States has a big problem with the incarceration population. P
 1. Tensors are multidimensional data arrays and software like tensorflow perform operations which neural networks perform on tensors according to the links provided. <br>
 2. I think what was most interesting about the computations was the speed they were completed at. The program calculated a lot of different things very quickly and the different libraries helped make the code much more readable. 
 <h5> Day 10 07/15/2021 <br> </h5>
-1. I think that a really good point about algorithms meeting percentages was brought up. It is hard to get the perfect data because different times bring different data. It is important to find an algorithm that is adaptable and meets those standards. 
+1. I think that a really good point about algorithms meeting percentages was brought up. It is hard to get the perfect data because different times bring different data. It is important to find an algorithm that is adaptable and meets those standards. <br>
 2. I actually have a really recent example. I was calling samsung customer service to help my dad with with his camera system and the AI kept thinking that I wanted help with my phone camera. It kept sending me to the wrong person for help and overall it took was longer than necessary to solve my problem. As a result of more people needing help with their phones, the AI struggled with identifying problems with the same key words for other devices. 
 
