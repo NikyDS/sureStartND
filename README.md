@@ -16,4 +16,6 @@ I think the United States has a big problem with the incarceration population. P
 <h5> Day 10 07/15/2021 <br> </h5>
 1. I think that a really good point about algorithms meeting percentages was brought up. It is hard to get the perfect data because different times bring different data. It is important to find an algorithm that is adaptable and meets those standards. <br>
 2. I actually have a really recent example. I was calling samsung customer service to help my dad with with his camera system and the AI kept thinking that I wanted help with my phone camera. It kept sending me to the wrong person for help and overall it took was longer than necessary to solve my problem. As a result of more people needing help with their phones, the AI struggled with identifying problems with the same key words for other devices. 
+<h5> Day 15 07/20/2021 <br> </h5>
+Some of the advantages of ReLU is that it is super easy to implement requiring only a max function, it avoids the vanishing gradient problem, it actually achieves a true zero, and it is a lot less computationally expensive than tanh and sigmoid. One example given in the text is the ImageNet classification. 
 
