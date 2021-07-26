@@ -16,6 +16,9 @@ I think the United States has a big problem with the incarceration population. P
 <h5> Day 10 07/15/2021 <br> </h5>
 1. I think that a really good point about algorithms meeting percentages was brought up. It is hard to get the perfect data because different times bring different data. It is important to find an algorithm that is adaptable and meets those standards. <br>
 2. I actually have a really recent example. I was calling samsung customer service to help my dad with with his camera system and the AI kept thinking that I wanted help with my phone camera. It kept sending me to the wrong person for help and overall it took was longer than necessary to solve my problem. As a result of more people needing help with their phones, the AI struggled with identifying problems with the same key words for other devices. 
-<h5> Day 15 07/20/2021 <br> </h5>
+<h5> Day 11 07/16/2021 <br> </h5>
+So CNN involves three layes and "specializes in processing data that has a gridlike topology" which an example is images. The three layers of CNN are the convolutional layer, the pooling layer, and the fully connected layer. The convolution layer is the core building block and holds the main portion of the networks computational hold. It performs dot product mathematics agaisnt two matrices and is made up of sparse interaction, parameter sharing, and equivalent representation. <br>
+The next layer is the pooling layer which "replaces the output of the network at certain locations by deriving a summary statistic of the nearby outposts." The final layer, the fully connected layer has "full connectivity with all the neurons in the preceding and succeeding layer." This allows it to be computed as usual by matrix multiplication instead of the dot product. It does need to incorportate the bias effect as welll. <br>
+<h5> Day 15 07/20/2021 </h5> <br>
 Some of the advantages of ReLU is that it is super easy to implement requiring only a max function, it avoids the vanishing gradient problem, it actually achieves a true zero, and it is a lot less computationally expensive than tanh and sigmoid. One example given in the text is the ImageNet classification. 
 
